@@ -34,3 +34,38 @@ Core Components:
 ---
 
 ## 📁 Repository Structure
+
+---
+
+## 🔒 Legal Protection
+
+This repository is protected via:
+
+- **Zenodo DOI:** https://doi.org/10.5281/zenodo.17782597  
+- **Blockchain Timestamp (OpenTimestamps)**  
+- **GitHub Commit Timestamp**  
+- **Copyright (© 2025 — Saurabh Misra)**  
+- **Master Legal Footer**  
+- **Karnav Canon Intellectual Property Shield**
+
+This repository represents the **official, timestamped, globally recognized record**  
+of the Universal C-Philosophy and its entire system architecture.
+
+---
+
+## 🔗 Official Links
+
+- X: https://x.com/HiddenDecoder  
+- Facebook: https://www.facebook.com/share/1CG6iRcQgW/  
+- Instagram: https://www.instagram.com/arnavlko  
+- LinkedIn: https://www.linkedin.com/in/saurabh-misra-266b72392  
+- YouTube: https://youtube.com/@hiddendecoder  
+- ORCID: https://orcid.org/0009-0009-7359-9839  
+- GitHub: https://github.com/HiddenDecoder  
+- Website: https://bit.ly/3MwkyRv  
+
+© 2025 — **Saurabh Misra (Karnav)**  
+All Rights Reserved.
+
+This repository is permanently archived via Zenodo under DOI:
+https://doi.org/10.5281/zenodo.17782597
